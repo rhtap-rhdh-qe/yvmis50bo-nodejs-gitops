@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yvmis50bo-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/yvmis50bo-nodejs
